@@ -72,5 +72,5 @@ bun run preview
 ```
 
 
-[github]([https://website-name.com](https://github.com/tiagoboucas/nuxt3-netlify-cms)https://github.com/tiagoboucas/nuxt3-netlify-cms)
+https://github.com/tiagoboucas/nuxt3-netlify-cms
 
