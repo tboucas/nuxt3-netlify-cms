@@ -70,3 +70,6 @@ yarn preview
 # bun
 bun run preview
 ```
+
+
+(https://github.com/tiagoboucas/nuxt3-netlify-cms)https://github.com/tiagoboucas/nuxt3-netlify-cms)
